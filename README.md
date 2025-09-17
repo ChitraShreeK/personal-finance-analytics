@@ -45,12 +45,12 @@ In today's complex financial landscape, Individuals find it challenging to manag
 
 ## Power BI Dashboard Images
 
-![Dashboard Main](dashboard\dashboard_images\final_dashboard_image.png)
+![Dashboard Main](dashboard/dashboard_images/final_dashboard_image.png)
 *Main Dashboard*
 
 ---
 
-![Dashboard Main](dashboard\dashboard_images\customer_id_selected.png)
+![Dashboard Main](dashboard/dashboard_images/customer_id_selected.png)
 *After Selecting a Customer ID*
 
 ## Skills & Key Tool
